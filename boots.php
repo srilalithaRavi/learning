@@ -90,7 +90,7 @@ function preimage(event)
 		</div>
 	</div>
 	<div class="form-group row">
-		<label for="file" class="col-sm-3 control-label">Profile Picture</label>
+		<label for="file" class="col-sm-3 control-label">ProPicture</label>
 		<div id="wrapper">
 		<div class="col-sm-6 file-loading">	
 		  <input type="file" name="propic" accept="image/*"  onchange="preimage(event)" class="btn" required>
